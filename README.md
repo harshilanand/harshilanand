@@ -1,4 +1,4 @@
-![alt text](https://github.com/harshilanand/harshilanand/.jpg?raw=true)
+![alt text](https://github.com/harshilanand/harshilanand/blob/8fabb2df6b7ab37e8d31c9ca7934c76fbcdbe92f/logo%20github%20trans.png))
 <h2 align="center">Hello World, I'm Harshil Anand <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 <h3 align="center">A CSE Student at SRMIST Chennai.</h3>
 
