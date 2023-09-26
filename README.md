@@ -1,4 +1,4 @@
- ![alt text](https://github.com/harshilanand/harshilanand/blob/8fabb2df6b7ab37e8d31c9ca7934c76fbcdbe92f/logo%20github%20trans.png)
+ ![alt text](https://github.com/harshilanand/harshilanand/blob/c064177a8c9399a8d784aac3b8ec7d3c166edcce/gitlogo.png)
 
 
 <h3 align="center">A CSE Student at SRMIST Chennai.</h3>
