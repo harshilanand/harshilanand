@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/harshil-anand-6ab374265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alokverma18" height="30" width="40" /></a>
 </p>
 
-[![LeetCode user cascandaliato](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcascandaliato&logo=leetcode&logoColor=yellow)](https://leetcode.com/Harshil_Anand/)
+[![LeetCode user Harshil_Anand](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FHarshil_Anand&logo=leetcode&logoColor=yellow)](https://leetcode.com/Harshil_Anand/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -36,7 +36,5 @@
 
 ### Code Humor 😅
 <img src="https://readme-jokes.vercel.app/api?theme=random" alt="Jokes Card" />
-
-
 
 ![harshilanand's Stats](https://github-readme-stats.vercel.app/api?username=harshilanand&theme=gruvbox&show_icons=true&hide_border=true&count_private=false)
