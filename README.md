@@ -3,9 +3,9 @@
 ![alt text](https://github.com/harshilanand/harshilanand/blob/ac4f1fdaf359a4b2aba94cde630dff8695d6fd19/github%20welcome%20gif.gif)
 
 
-<h3 align="center">A CSE Student at SRMIST Chennai.</h3>
-
 ![harshilanand](https://komarev.com/ghpvc/?username=harshilanand&color=blueviolet)</p>
+<h3 align="left">A CSE Student at SRMIST Chennai.</h3>
+
 - 🌱 I’m currently learning **Machine Learning and App Development** 
 
 - ⚡ Fun fact: **I'm not Funny 😅**
