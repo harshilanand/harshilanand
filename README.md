@@ -1,6 +1,6 @@
-![alt text](https://github.com/harshilanand/harshilanand/blob/8dd91b3fe44121321f355b160b0c440795f28f8a/github%20logo%20gif.gif)
- 
- ![alt text](https://github.com/harshilanand/harshilanand/blob/c064177a8c9399a8d784aac3b8ec7d3c166edcce/gitlogo.png)
+![alt text](https://github.com/harshilanand/harshilanand/blob/c064177a8c9399a8d784aac3b8ec7d3c166edcce/gitlogo.png)
+
+![alt text](https://github.com/harshilanand/harshilanand/blob/ac4f1fdaf359a4b2aba94cde630dff8695d6fd19/github%20welcome%20gif.gif)
 
 
 <h3 align="center">A CSE Student at SRMIST Chennai.</h3>
