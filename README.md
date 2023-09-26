@@ -1,5 +1,5 @@
-
-<h1 align="center">Hello World, I'm Harshil Anand <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="centre">>img
+<h2 align="center">Hello World, I'm Harshil Anand <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 <h3 align="center">A CSE Student at SRMIST Chennai.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alokverma18&label=Profile%20views&color=0e75b6&style=flat" alt="harshilanand" /> </p>
