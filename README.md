@@ -1,4 +1,3 @@
-![alt text](https://github.com/harshilanand/harshilanand/blob/c064177a8c9399a8d784aac3b8ec7d3c166edcce/gitlogo.png)
 
 ![alt text](https://github.com/harshilanand/harshilanand/blob/ac4f1fdaf359a4b2aba94cde630dff8695d6fd19/github%20welcome%20gif.gif)
 
