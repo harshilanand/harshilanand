@@ -15,8 +15,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/harshil-anand-6ab374265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alokverma18" height="30" width="40" /></a>
-<a href="https://leetcode.com/Harshil_Anand/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshilanand" height="30" width="40" /></a>
 </p>
+
+[![LeetCode user cascandaliato](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcascandaliato&logo=leetcode&logoColor=yellow)](https://leetcode.com/Harshil_Anand/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
