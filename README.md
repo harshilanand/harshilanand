@@ -1,3 +1,5 @@
+![alt text](https://github.com/harshilanand/harshilanand/blob/8dd91b3fe44121321f355b160b0c440795f28f8a/github%20logo%20gif.gif)
+ 
  ![alt text](https://github.com/harshilanand/harshilanand/blob/c064177a8c9399a8d784aac3b8ec7d3c166edcce/gitlogo.png)
 
 
