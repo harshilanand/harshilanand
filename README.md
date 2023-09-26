@@ -34,9 +34,5 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshilanand&show_icons=true&locale=en&layout=compact" alt="harshilanand" /></p>
-
 ### Code Humor 😅
 <img src="https://readme-jokes.vercel.app/api?theme=random" alt="Jokes Card" />
-
-![harshilanand's Stats](https://github-readme-stats.vercel.app/api?username=harshilanand&theme=gruvbox&show_icons=true&hide_border=true&count_private=false)
