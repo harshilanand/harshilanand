@@ -1,8 +1,8 @@
-![alt text](https://github.com/harshilanand/harshilanand/blob/8fabb2df6b7ab37e8d31c9ca7934c76fbcdbe92f/logo%20github%20trans.png))
+<h1 align="centre" ![alt text](https://github.com/harshilanand/harshilanand/blob/8fabb2df6b7ab37e8d31c9ca7934c76fbcdbe92f/logo%20github%20trans.png))
 <h2 align="center">Hello World, I'm Harshil Anand <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 <h3 align="center">A CSE Student at SRMIST Chennai.</h3>
 
-<p![harshilanand](https://komarev.com/ghpvc/?username=harshilanand&color=blueviolet)</p>
+![harshilanand](https://komarev.com/ghpvc/?username=harshilanand&color=blueviolet)</p>
 - 🌱 I’m currently learning **Machine Learning and App Development** 
 
 - ⚡ Fun fact: **I'm not Funny 😅**
