@@ -3,7 +3,7 @@
 <h3 align="center">A CSE Student at SRMIST Chennai.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alokverma18&label=Profile%20views&color=0e75b6&style=flat" alt="harshilanand" /> </p>
-
+![harshilanand](https://komarev.com/ghpvc/?username=harshilanand&color=blueviolet)
 - 🌱 I’m currently learning **Machine Learning and App Development** 
 
 - ⚡ Fun fact: **I'm not Funny 😅**
