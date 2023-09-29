@@ -31,6 +31,13 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  </p>
 
+<entry>
+<title type="html">Umbrellatocat</title>
+<link href="https://octodex.github.com/umbrellatocat/" rel="alternate" type="text/html" title="Umbrellatocat"/>
+<updated>2018-09-13T00:00:00+00:00</updated>
+<id>https://octodex.github.com/umbrellatocat/</id>
+<content type="html"> <p> <a href="https://octodex.github.com/umbrellatocat/"> <img src="https://octodex.github.com/images/puddle_jumper_octodex.jpg"/> </a> </p> <p>The <strong><a href="https://octodex.github.com/umbrellatocat/">Umbrellatocat</a></strong> by rubyjazzy </p> </content>
+</entry>
 
 ### Code Humor 😅
 <img src="https://readme-jokes.vercel.app/api?theme=random" alt="Jokes Card" />
