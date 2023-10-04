@@ -4,7 +4,8 @@
 ![harshilanand](https://komarev.com/ghpvc/?username=harshilanand&color=blueviolet)</p>
 <h3 align="left">A CSE Student at SRMIST Chennai.</h3>
 
-- 🌱 I’m currently learning **Machine Learning and App Development** 
+- 🌱 I’m enthusiastic about
+**Machine Learning and App Development** 
 
 - ⚡ Fun fact: **I think I am quiet Funny 😅**
   
