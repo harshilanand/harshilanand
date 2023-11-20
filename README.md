@@ -9,7 +9,7 @@
 
 
 - 🌱 I’m enthusiastic about
-**Machine Learning and App Development** 
+**Machine Learning and App      Development** 
 
 - ⚡ Fun fact: **I think I am quiet Funny 😅**
   
