@@ -3,6 +3,8 @@
 <img align = "right" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="400">
 <br><be>
 
+**Hello! I am Harshil Anand**
+
 ![harshilanand](https://komarev.com/ghpvc/?username=harshilanand&color=blueviolet)</p>
 <h3 align="left">A CSE Student at SRMIST Chennai.</h3>
 
